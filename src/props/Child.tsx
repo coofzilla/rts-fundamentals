@@ -27,13 +27,3 @@ export const ChildAsFC: React.FC<ChildProps> = ({
   );
 };
 
-// use fc shortcut to be op
-// interface Props {
-
-// }
-
-// const : FunctionComponent<Props> = () => {
-//   return (  );
-// }
-
-// export default ;
